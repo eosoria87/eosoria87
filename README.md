@@ -113,7 +113,7 @@
 ## 📫 Contact
 
 * LinkedIn: <a href="https://www.linkedin.com/in/your-handle">linkedin.com/in/eosoria87</a>
-* Email: <a href="mailto:your@email.com">[your@email.com](mailto:eosoria87@email.com)</a>
+* Email: <a href="mailto:your@email.com">[eosoria87@email.com](mailto:eosoria87@email.com)</a>
 
 ---
 
